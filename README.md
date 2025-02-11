@@ -1,6 +1,7 @@
 # RCOC房间云通讯
 ### Room Chat On Cloud
 房间云通讯是一个由编程猫COCO编程器创作出来的开源项目
+#### 这是编程猫的主页：https://codemao.cn
 该项目使用GNU通用开源协议，也就是GPL-3
 若你使用了该项目的资源，请您将您将公开的版本进行开放源代码
 
@@ -14,3 +15,16 @@
 
 编辑器大概就是这样子的
 ![image](https://github.com/user-attachments/assets/ce6d8a03-e424-4535-8c72-84e6a83ea110)
+
+============================================================================================
+
+
+# EnglishVersion
+## RCOC
+Room Cloud Communication is an open-source project created by the programming Codemao COCO editor
+This is their homepage is（CodeMao）
+#### https://codemao.cn
+This project uses the GNU General Public License, also known as GPL-3. 
+If you have utilized resources from this project, please open-source the version you will publicly release.
+
+But I found out that they did not develop an English version of this editor and may not be very friendly to people from other countries other than China
