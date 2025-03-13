@@ -149,13 +149,21 @@ GNU通用公共许可证（GPL）是一份面向软件及其他类型作品的�
 为此，请在程序中附加以下声明。为有效声明免责，建议将其置于每个源文件开头：  
 
 ```
-<一行程序名称及功能简介>
+<一行程序名称及功能简介s.>
     Copyright (C) <年份>  <作者姓名>
-```
 
-本程序是自由软件：您可依据自由软件基金会发布的GNU通用公共许可证（第3版或更新版本）重新分发和/或修改它。  
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
 
-本程序无任何担保，详见GNU通用公共许可证。您应已随本程序收到许可证副本。若未收到，请参阅<https://www.gnu.org/licenses/>。  
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>. 
 ```  
 
 同时提供您的电子及纸质联系方式。  
@@ -167,7 +175,8 @@ GNU通用公共许可证（GPL）是一份面向软件及其他类型作品的�
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
-```  
+    
+ 
 
 “show w”和“show c”应显示GPL相关条款。GUI程序可改用“关于”窗口。  
 
