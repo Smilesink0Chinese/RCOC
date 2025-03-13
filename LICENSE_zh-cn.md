@@ -162,9 +162,10 @@ GNU通用公共许可证（GPL）是一份面向软件及其他类型作品的�
 若程序支持终端交互，请在交互模式启动时输出如下简短声明：  
 
 ```  
-<程序名> 版权所有 (C) <年份> <作者姓名>  
-本程序不提供任何担保，输入“show w”查看详情。  
-这是自由软件，欢迎您按特定条件重新分发，输入“show c”查看详情。  
+<程序名>  Copyright (C) <年份>  <你的名称>
+    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details.
 ```  
 
 “show w”和“show c”应显示GPL相关条款。GUI程序可改用“关于”窗口。  
