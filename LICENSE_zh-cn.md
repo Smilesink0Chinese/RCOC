@@ -148,9 +148,10 @@ GNU通用公共许可证（GPL）是一份面向软件及其他类型作品的�
 
 为此，请在程序中附加以下声明。为有效声明免责，建议将其置于每个源文件开头：  
 
-```  
-<一行程序名称及功能简介>  
-版权所有 (C) <年份> <作者姓名>  
+```
+<一行程序名称及功能简介>
+    Copyright (C) <年份>  <作者姓名>
+```
 
 本程序是自由软件：您可依据自由软件基金会发布的GNU通用公共许可证（第3版或更新版本）重新分发和/或修改它。  
 
@@ -162,7 +163,7 @@ GNU通用公共许可证（GPL）是一份面向软件及其他类型作品的�
 若程序支持终端交互，请在交互模式启动时输出如下简短声明：  
 
 ```  
-<程序名>  Copyright (C) <年份>  <你的名称>
+<程序名>  Copyright (C) <年份>  <作者姓名>
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
