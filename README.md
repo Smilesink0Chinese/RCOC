@@ -123,10 +123,6 @@ This software is distributed **without warranties of merchantability or fitness 
 
 --- 
 
-### **Contact Information**  
-For licensing inquiries or technical collaboration, contact:  
-- **Institutional Affiliation**: CodeMao Open Source Initiative  
-- **Repository URL**: [RCOC GitHub Repository](https://github.com/rcoc-official)  
 
 --- 
 
